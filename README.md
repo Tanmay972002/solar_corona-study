@@ -1,2 +1,2 @@
 # solar_corona-study
-Study of solar Corona
+Study of Solar Corona
